@@ -1,0 +1,169 @@
+ DevOps Master Program Daily Links ---------------------------------- Linus Commands -------*------ Session -1 07/03/2022 ----------
+
+
+ https://transcripts.gotomeeting.com/#/s/c380bbd97bff1565a8c67b725cdf4be8ae052235d1557b8da163d15eacb013b6
+
+
+ Session -2 08/03/2022 ---------- https://transcripts.gotomeeting.com/#/s/ee24954ed6b264a9164467f1199ffa29876048cea2a8e723f904438eb53bc5a1
+
+
+
+ Session -3 09/03/2022 ---------- https://transcripts.gotomeeting.com/#/s/46311d58a2255cb242b3b2ba341b17da4cd5e87c287d99c0d929b7854a232045
+
+
+ Session -4 10/03/2022 ---------- https://transcripts.gotomeeting.com/#/s/bc4d1fbb63976eea9ad9ffca687b5d89bf008f6b7dbdafd62aa4894f8daefe16
+
+
+ Session -5 11/03/2022 ---------- https://transcripts.gotomeeting.com/#/s/5e91ad93fd5806a565b143455f54f38aad9484d9aef1bbe9f6d6f392ae1a5832
+
+
+ Session -6 14/03/2022 ----------- https://transcripts.gotomeeting.com/#/s/08def758a9702fe3105442838d1ed67c1cc41a3f3daae1f6833a7a9e6cb18f9b
+
+
+ Session -7 15/03/2022 ----------- https://transcripts.gotomeeting.com/#/s/17b28b4f6ca7e72d811483c11d9bd17eaa71bcf338c81193e9964369fb252783
+
+
+ Session -8 16/03/2022 ----------- https://transcripts.gotomeeting.com/#/s/49412ff14bc3bff3abce7a7d662816ee026812c1dc3d1c379029e93c06dd76d7
+
+
+ Session -9 17/03/2022 ----------- https://transcripts.gotomeeting.com/#/s/9a8accb5280174425bbf9f6bbe625e4cdebb9f4b73d16abab62f244f8e64c9c1
+
+
+ Session -10 18-03-2022 ----------- https://transcripts.gotomeeting.com/#/s/22a3716bbeb2cd4bd8ac3b9fca4c6b9ab6b51034fa1eedc7ba249ec8bbc4f120
+
+
+ /1 * /home/ec2-user/hello.sh > /home/ec2-user/hello.log 2>&1 ----------------------------------------------- shell script ------*------
+
+
+ Shell Script -1 21/03/2022 ---------------- https://transcripts.gotomeeting.com/#/s/ebeb6c9cde908e5ec8bd1a9da854b64566c3ca6414a4efaa9985908db81663aa
+
+
+ Shell Script -2 22/03/2022 --------------- https://transcripts.gotomeeting.com/#/s/b60de1a7ffc932aadc4f1bb8809eee6510faad121901c03a35ced9042fc56192
+
+
+
+
+ Shell Script -3 23/03/2022 --------------- https://transcripts.gotomeeting.com/#/s/9de3629817f9a941ff5c1abd6a32d0e60e081febf4d7e4ea0bc72f2dedfcfe8a
+
+
+ Shell Script -4 24/03/2022 ---------------- https://transcripts.gotomeeting.com/#/s/052176ff0d2c6779f8acba7e3d203de26b45a9cab0225592c2faac683998dacb
+
+
+ ShellScript -5 25/03/2022 -------------- https://transcripts.gotomeeting.com/#/s/a1a981ff6be495bb7f729ff4d406deba1bbfcf0ebb3265ce6ac817b0c8048c96
+
+
+
+ GITHUB ADMINISTRATION ----------*---------- GitHub Administration-1 28/03/2022 --------------------- https://transcripts.gotomeeting.com/#/s/fb30d2cd689edeb15616c9c5f063173667fd54f01b08d99695a8f090ce58d04f
+
+
+ GitHub Commands -2 29/03/2022 ---------------- https://transcripts.gotomeeting.com/#/s/db6fee3246906e801702eb61053f45900b38d9614733e6f20fec04beeb0b4d86
+
+
+ Git Commands - 3 30/03/2022 ---------------- https://transcripts.gotomeeting.com/#/s/e390065b6b97940f76cbf43032b0f33f11be2fd26956e9b7533b92a0a3d55f6d
+
+
+ Git Commands -4 31/03/2022 --------------- https://transcripts.gotomeeting.com/#/s/f58c6dcc3665b52b6a5b4dd5ed0369568d7ccc77ef316a1120753a984c7076af
+
+
+ Git Commands - 5 01/04/2022 ---------------- https://transcripts.gotomeeting.com/#/s/bda46000b0886a2d571333d244c76757dad19bd1187b01f14df20b6f84b5a885
+
+
+ Git Commands -6 04/04/2022 --------------- https://transcripts.gotomeeting.com/#/s/3b698fb58e006a9b8fdb56180266981554f3f6f55d62434d018a243e35dd93b4
+
+
+ MAVEN --*-- Maven -1 05/04/2022 -------- https://transcripts.gotomeeting.com/#/s/71dcd0504b990c54a1317d79c5128ec4121b27461c80f8b84a3f2a6a465f5034
+
+
+ Maven -2 06/04/2022 --------- https://transcripts.gotomeeting.com/#/s/a12e7440dee9d51510d6db9686767dbbd88e780e41e6f755239e9fdcac508f5d
+
+
+ Tomcat ----*--- Maven & Tomcat -1 07/04/2022 ------------------ https://transcripts.gotomeeting.com/#/s/d46573b2d436692b46aa681818b2402bea9ee5583f14fe9a6d656377c0982e3d
+
+
+ Tomcat - 2 08/04/2022 ---------- https://transcripts.gotomeeting.com/#/s/91f91affdbd14d3569724d5b4e60a737d9365bfbd2f784e2b3fea7538c011692
+
+
+ SonarQube ----*---- SonarQube - 1 ------------- https://transcripts.gotomeeting.com/#/s/28f444d3c4e262dc8aa74530f17c01decf66593beec32bc06d501a306c8912a0
+
+
+ SonarQube - 2 ------------- https://transcripts.gotomeeting.com/#/s/972f8c8d05824283c07654a440a03b7f034697d5ec451481cc3e43bccfceb57c
+
+
+ SonarQube - 3 ------------- https://transcripts.gotomeeting.com/#/s/23ce238e9545aec6b8defc3862b5a7021baad663378fee86fe92989a438fbf67
+
+
+ Nexus --*-- Nexus - 1 --------- https://transcripts.gotomeeting.com/#/s/9dae87ddb1e2e44f4261243d19bdf6b6ef72b8b9e22dca47e7548d7258ac1edf
+
+
+
+ Nexus - 2 --------- https://transcripts.gotomeeting.com/#/s/e06cc97287fafe9a8172546032bf988de376cd8a8ac718b336885bcaee4dc06b
+
+
+
+
+Nexus -3 -------- https://transcripts.gotomeeting.com/#/s/2921951e48efbaeb3274d8874dfaacae33d22baa9b182b5e0a05923509dc5311
+
+
+
+
+Jenkins -1
+
+----------
+
+
+https://transcripts.gotomeeting.com/#/s/1bc0c7a87dbf940119461b055b6d02c93fe76462beb7f057ea9b8e8e15f17a7c
+
+
+Jenkins - 2 -----------
+
+
+ https://transcripts.gotomeeting.com/#/s/a0172592f349c1d7d9a15f99f49f8eaf2a052cf5e1876d19cacd695174b5a7d4
+
+
+
+
+Jenkins -3 ---------- https://transcripts.gotomeeting.com/#/s/e15444a9b34be0c8a005d6ff0720d3e0c3eb431e7dd4d08e96a469c2b2dced8d
+
+
+
+
+
+Jenkins - 4 ----------- https://transcripts.gotomeeting.com/#/s/651448b8dda88159c183fed89b6b0ac489b16ccb94383ea7ba5c2383c94c101a
+
+
+
+
+Jenkins - 5 ----------- https://transcripts.gotomeeting.com/#/s/7f34f1e3364b0983b3e9b540b95ac3fff2741d5b195a29e119586c48f55fd038
+
+
+
+Jenkins - 6 ----------- https://transcripts.gotomeeting.com/#/s/9c8c6462d83ce79777e53fde9ca0779e970c39364b53f454d2f7c6f8cc825eea
+
+
+
+Jenkins - 7 ----------- https://transcripts.gotomeeting.com/#/s/546cc8c221e37ba13f625ebd041217a149b7f71b925dcc374ecfbc5b7d480d2a
+
+
+
+Jenkins - 8 ------------ https://transcripts.gotomeeting.com/#/s/3dc2670ab9be1e70a7a65e3520d39f316eb66c984cd63a855ca175f0364642fe
+
+
+Jenkins - 9-----------https://transcripts.gotomeeting.com/#/s/52d98c7c9d7191da4d856e5009716104cf43d942346f2c15074fb488a98b4ddb
+
+
+Jenkins - 10 
+
+------------ 03-05-2022
+
+
+  https://transcripts.gotomeeting.com/#/s/b3e3898023bef65529d19ddea2f41d7125add3e195c5538059ab86ac399546c8
+
+
+
+
+
+Jenkins -11 - 
+
+04-05-2022
+
+---------- https://transcripts.gotomeeting.com/#/s/a01daee9d90a70f6fa3d0a530f9d95773d136441689e5bcf23eb10885d64d970
